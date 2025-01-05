@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Learning UI/UX Design using Figma<br>Currently learning front end web-development using react<br>Apart from these working as poster designer and T-shirt designer<br>
 
 

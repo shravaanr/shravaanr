@@ -1,5 +1,5 @@
 #  About Me:
-<br><h1>Data Science and Gaphic design enthusiast || UI-UX interface desinger||</h1><br>
+<br><h1>Data Science and Gaphic design enthusiast| UI-UX interface designer</h1><br>
 
 
 ## 🌐 Socials:

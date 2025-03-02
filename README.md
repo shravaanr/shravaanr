@@ -1,5 +1,5 @@
 #  About Me:
-Learning UI/UX Design using Figma<br>Currently learning data science<br>Apart from these working as poster designer and T-shirt designer<br>
+<br>Data Science and Gaphic design enthusiast || UI-UX interface desinger||<br>
 
 
 ## 🌐 Socials:
